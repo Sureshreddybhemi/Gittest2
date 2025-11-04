@@ -13,3 +13,4 @@ New Brach creation
 git checkout -b feature "date"
 git branch
 new change2
+6:updated file2 for rebase merge
